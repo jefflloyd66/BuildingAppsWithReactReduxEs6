@@ -11,6 +11,7 @@ import {loadCourses} from './actions/courseActions';
 
 import './styles/styles.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import '../node_modules/toastr/build/toastr.min.css';
 
 
 const store = configureStore();
